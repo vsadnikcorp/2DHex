@@ -1,0 +1,10 @@
+﻿{
+  "reference": "",
+  "Unity.Entities": "Unity.Entities",
+  "Engine": "Engine",
+  "Unity.Rendering.Hybrid": "Unity.Rendering.Hybrid",
+  "Unity.Entities.Hybrid": "Unity.Entities.Hybrid",
+  "Unity.Transforms": "Unity.Transforms",
+  "Unity.Mathematics" : "Unity.Mathematics",
+  "Unity.Collections" :  "Unity.Collections"
+}
